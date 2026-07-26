@@ -224,8 +224,8 @@ CosmoGuards/
 
 | Role | Name |
 |------|------|
-| **Presenter / Lead** | Shaik Sowban |
-| **Problem Statement** | SIH25142 |
+| **Presenter / Lead** | Lidiya |
+| **Problem Statement** | SIH |
 | **Theme** | Space Technology |
 
 ---
