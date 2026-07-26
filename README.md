@@ -26,7 +26,7 @@
 
 Built for **Smart India Hackathon 2025 — Problem Statement SIH25142** under the **Space Technology** theme.
 
-**Presenter:** Shaik Sowban
+**Presenter:** Lidiya
 
 ---
 
