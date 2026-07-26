@@ -168,7 +168,7 @@ export default function App() {
                 <div style={{ fontSize: '0.6rem', color: 'var(--clr-neon-gold)', letterSpacing: '0.1em', marginBottom: '6px', fontWeight: 700 }}>
                   PRESENTER
                 </div>
-                <div style={{ fontSize: '0.8rem', color: 'var(--clr-text-primary)', fontWeight: 600 }}>Shaik Sowban</div>
+                <div style={{ fontSize: '0.8rem', color: 'var(--clr-text-primary)', fontWeight: 600 }}>Lidiya</div>
                 <div style={{ fontSize: '0.65rem', color: 'var(--clr-text-muted)' }}>SIH25142 · Space Tech</div>
               </div>
             </nav>

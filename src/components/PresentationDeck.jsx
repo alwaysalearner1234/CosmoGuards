@@ -81,7 +81,7 @@ function SlideTitleContent() {
       <div className="flex gap-4" style={{ flexWrap: 'wrap', justifyContent: 'center' }}>
         <div className="glass-card p-4" style={{ textAlign: 'left', minWidth: '160px' }}>
           <div className="text-xs opacity-50 mb-1" style={{ textTransform: 'uppercase', letterSpacing: '0.1em' }}>Presenter</div>
-          <div style={{ fontWeight: 700, color: '#fff', fontSize: '1.1rem' }}>Shaik Sowban</div>
+          <div style={{ fontWeight: 700, color: '#fff', fontSize: '1.1rem' }}>Lidiya</div>
         </div>
         <div className="glass-card p-4" style={{ textAlign: 'left', minWidth: '160px' }}>
           <div className="text-xs opacity-50 mb-1" style={{ textTransform: 'uppercase', letterSpacing: '0.1em' }}>Problem ID</div>
