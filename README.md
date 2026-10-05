@@ -4,7 +4,7 @@
 
 # 🛰️ COSMO GUARDS
 ### Hyperspectral Imaging for Space Mineral Exploration
-#### *3D-CNN + Vision Transformers | SIH25142 | Space Technology*
+#### *3D-CNN + Vision Transformers | Space Technology*
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
