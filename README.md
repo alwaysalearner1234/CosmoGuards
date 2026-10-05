@@ -212,7 +212,7 @@ CosmoGuards/
 ## 🗓️ Roadmap
 
 ```
-2025  ▸  SIH Prototype Deployment
+2025  ▸   Prototype Deployment
 2026  ▸  ISRO Mission Integration
 2027  ▸  Lunar Surface Field Trials
 2028+ ▸  Mars ISRU Operations
