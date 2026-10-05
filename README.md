@@ -24,9 +24,9 @@
 
 **Cosmo Guards** is an interactive AI-powered prototype for **hyperspectral mineral exploration** in deep space environments (Moon, Mars, asteroids). It showcases a cutting-edge **Hybrid 3D-CNN + Vision Transformer (ViT)** architecture that processes multi-band hyperspectral image cubes to generate real-time, physics-validated mineral classification maps.
 
-Built for **Smart India Hackathon 2025 — Problem Statement SIH25142** under the **Space Technology** theme.
+Built under the **Space Technology** theme.
 
-**Presenter:** Lidiya
+
 
 ---
 
@@ -36,7 +36,7 @@ Built for **Smart India Hackathon 2025 — Problem Statement SIH25142** under th
 
 ---
 
-## 🎯 Problem Statement — SIH25142
+
 
 | Challenge | Description |
 |-----------|-------------|
@@ -224,8 +224,8 @@ CosmoGuards/
 
 | Role | Name |
 |------|------|
-| **Presenter / Lead** | Lidiya |
-| **Problem Statement** | SIH |
+| **Lead** | Lidiya |
+
 | **Theme** | Space Technology |
 
 ---
@@ -238,10 +238,12 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Built with ❤️ for Smart India Hackathon 2025**
+**Built with ❤️**
 
 *"A major leap forward for Atmanirbhar Bharat in Space Technology"*
 
 ⭐ If you find this useful, please star the repository!
+
+Video Demo Link: https://youtu.be/agGGi2wW6O4
 
 </div>
